@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423049930222",
+    "project_id": "banzaaraapp",
+    "storage_bucket": "banzaaraapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423049930222:android:e5574eb54f13d538ea1aff",
+        "android_client_info": {
+          "package_name": "com.example.banzaaraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423049930222-u06e71k7d78t05a8rts818rbtm02tidu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Jk5FnCwAynrFNRcNDXVOqxyf4Gf2rY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423049930222-u06e71k7d78t05a8rts818rbtm02tidu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
